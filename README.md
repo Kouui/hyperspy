@@ -60,8 +60,7 @@ conda install pyqt=4
     
     - man-made model
   
-  - features of curve fitting optimizer
-    [table](http://hyperspy.org/hyperspy-doc/current/user_guide/model.html#id3)
+  - [features of curve fitting optimizer](http://hyperspy.org/hyperspy-doc/current/user_guide/model.html#id3)
   
   - [visualizing model](http://hyperspy.org/hyperspy-doc/current/user_guide/model.html#visualizing-the-model)
   
